@@ -1,11 +1,144 @@
+"![Header](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Rohit%20Balasayee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20II%20@%20Microsoft&descAlignY=55&descSize=18)
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitbalasayee@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&height=60&lines=Building+Scalable+Backend+Systems+%40+O365;Modernizing+Core+Engineering+Infrastructure;Passionate+about+Clean+Architecture)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-balasayee/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rohitbalasayee@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitb17)
+![Profile Views](https://komarev.com/ghpvc/?username=rohitb17&style=for-the-badge&color=0078D4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohitb17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+```typescript
+const rohit: SoftwareEngineer = {
+    location: \"Seattle, WA\",
+    company: \"Microsoft\",
+    team: \"Exchange / O365\",
+    role: \"Software Engineer II\",
+    
+    currentFocus: [
+        \"Building scalable backend systems\",
+        \"Modernizing critical internal tooling\",
+        \"Platform resilience & security at scale\"
+    ],
+    
+    passion: \"Solving complex infrastructure problems with clean architecture & automation\",
+    
+    education: {
+        masters: \"MS Computer Science @ University at Buffalo\",
+        bachelors: \"BS Computer Science @ PES University\"
+    }
+};
+```
+
+---
+
+## 💼 Career Journey
+
+### 🏢 Microsoft
+**Software Engineer II** | 2024 - Present | Seattle, WA
+
+- 🏗️ Building scalable backend systems for O365
+- 🔐 Leading security & maintainability efforts across Exchange's build ecosystem
+- 🔧 Modernizing foundational dependency used in **thousands of builds**
+- 📦 Upgrading high-risk packages & reducing tech debt
+
+### 📱 Qualcomm
+**Software Engineer** | 2020 - 2024 | San Diego, CA
+
+- 💰 Cut infrastructure costs by **20%** with C# CLI tools & AWS Lambda APIs
+- ⚡ Reduced build/test times by **50%** (Windows → Linux migration)
+- 🐳 Migrated legacy .NET Framework to .NET Core + Docker
+- 🔄 Optimized Jenkins CI/CD pipelines
+
+### 🏦 Perfios
+**Senior Software Development Engineer** | 2016 - 2018 | Bengaluru, India
+
+- 📊 Built financial data solutions with Scala, ElasticSearch & ML
+- 🤖 Implemented clustering & regression for client recommendations
+- 📈 Boosted parser efficiency by **15%**
+- ⏱️ Reduced transaction recovery time by **10%** for Kotak Bank
+
+### 🏍️ Dryve
+**Backend Developer Intern** | 2016 | Bengaluru, India
+
+- 🛠️ Built REST APIs with Python & JavaScript
+- 📍 Developed vendor portal for real-time bike tracking
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Frameworks & Databases**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**ML & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+🥇 **First Place** - Inter College Coding Event (x2)
+
+🏅 **Best Use of Wegmans API** - Hackathon Winner
+
+**Certifications:** MongoDB for Developers • Algorithmic Toolbox • Neural Networks & Deep Learning • GraphQL • RESTful APIs
+
+---
+
+## 🎓 Education
+
+| University | Degree |
+|:---:|:---:|
+| **University at Buffalo** | MS Computer Science |
+| **PES University** | BS Computer Science |
+
+---
+
+## 💡 Currently Working On
+
+```
+🔐 Modernizing critical internal tooling at Microsoft Exchange
+📦 Upgrading high-risk packages across foundational dependencies
+⚡ Strengthening platform resilience for engineering teams at scale
+```
+
+---
+
+### 🤝 Let's Connect!
+
+*I'm always open to discussing backend systems, cloud infrastructure, or interesting engineering challenges.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-balasayee/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer)
+"
